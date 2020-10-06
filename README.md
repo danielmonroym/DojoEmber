@@ -1,6 +1,5 @@
 # dojo-ember
-https://travis-ci.com/danielmonroym/DojoEmber.svg?branch=main
-[![Build Status]
+[![Build Status](https://travis-ci.com/danielmonroym/DojoEmber.svg?branch=main)](https://travis-ci.com/danielmonroym/DojoEmber)
 ## Prerequisites
 
 You will need the following things properly installed on your computer.
