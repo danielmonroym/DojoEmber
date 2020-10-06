@@ -1,8 +1,6 @@
 # dojo-ember
 https://travis-ci.com/danielmonroym/DojoEmber.svg?branch=main
-
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+[![Build Status](https://travis-ci.com/danielmonroym/DojoEmber.svg?branch=main)](https://travis-ci.com/danielmonroym/DojoEmber)
 
 ## Prerequisites
 
