@@ -46,6 +46,7 @@ module.exports = function(environment) {
   if (environment === 'production') {
     // here you can enable a production-specific feature
   }
-
+  ENV.OMDB_ACCESS_TOKEN='da6baf2e';
+  ENV.URL='http://www.omdbapi.com/';
   return ENV;
 };
